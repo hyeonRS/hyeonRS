@@ -1,6 +1,8 @@
 
 <img src="./assets/profile-header.svg" alt="Hongseok Hyeon — Backend Engineer" />
 
+<br>
+
 <div align="center">
   <div>
     <p>
@@ -23,12 +25,6 @@
 <div align="center">
     <img src="https://streak-stats.demolab.com?user=hyeonRS&theme=tokyonight&hide_border=true&border_radius=10&ring=9B59B6&fire=9B59B6&sideNums=ffffff&currStreakNum=9B59B6&sideLabels=ffffff&currStreakLabel=ffffff" alt="GitHub Streak"/>
 </div>
-<br>
-
-## ✨ Activities
-- LG U+ Ureca 교육과정 3기 (2025.08 ~ 2026.03)
-- LG U+ Ureca 3기 SW 최종융합프로젝트 최우수상 (2026.03.24)
-  
 <br>
 
 ## 🛠 Tech Stack
@@ -76,7 +72,11 @@
   </a>&nbsp;
   <a href="https://github.com/hyeonRS">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  </a>&nbsp;
+  <a href="https://app.notion.com/p/Hyeon-Hongseok-3352b3b3ac0f80edbe7bc47d4957d16e?source=copy_link" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  </a>&nbsp;
+  
 </div>
 
 
